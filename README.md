@@ -1,10 +1,6 @@
 # currency-tracker
 A currency price tracker app built with Koa, GraphQL, MongoDB
 
-### GraphiQL DEMO
-[GraphiQL Page](https://api-currency-tracker.herokuapp.com/graphql)
-
-
 ### Usage
 - Get all tracks
 ```js
